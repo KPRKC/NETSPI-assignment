@@ -1,0 +1,1 @@
+export const GET_STAR_LIST = 'GET_STAR_LIST';
