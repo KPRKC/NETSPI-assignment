@@ -6,3 +6,4 @@
 4. Run **npm install** to copy the node-modules into project folder from **package.json**.
 5. Run **npm start** to run the App.
 6. Run **npm test** to test the App. 
+7. Run **npm test -- --coverage** for code coverage
